@@ -2,6 +2,14 @@
 
 Une application Flutter élégante pour explorer les pays du monde avec leurs informations détaillées.
 
+## 📸 Captures d'Écran
+
+<div align="center">
+  <img src="assets/readmiescreen/home.png" alt="Page d'accueil" width="250"/>
+  <img src="assets/readmiescreen/listeofcountry.png" alt="Liste des pays" width="250"/>
+  <img src="assets/readmiescreen/details.png" alt="Détails du pays" width="250"/>
+</div>
+
 ## 📱 Fonctionnalités
 
 - **Page d'accueil** : Écran de bienvenue avec une belle animation du globe terrestre

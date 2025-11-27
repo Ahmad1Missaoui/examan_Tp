@@ -158,7 +158,7 @@ class CountryDetailPage extends StatelessWidget {
                     title,
                     style: TextStyle(
                       fontSize: 14,
-                      color: Colors.grey[600],
+                      color: const Color.fromARGB(255, 157, 188, 131),
                       fontWeight: FontWeight.w400,
                     ),
                   ),
